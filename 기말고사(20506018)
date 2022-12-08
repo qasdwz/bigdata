@@ -28,13 +28,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "# 기말고사\n",
-        "각 텍스트 문제 뒤에 코드블럭을 생성하여 문제에 대한 답을 코드로 적어보자. 과제는 올림픽 메달 집계 위키페이지 데이터를 지시대로 가공하는 것이다. 오픈북이니 마음껏 검색하거나 예전 수업자료를 보아도 된다. 단, 판다스 라이브러리를 사용해야 한다. 문제는 총 13문제이다.\n",
-        "\n",
-        "*   코드를 완성, 실행한 후 깃허브 저장소에 **'기말고사(학번 이름)'의 파일명**으로 사본저장한다.\n",
-        "* 업로드 후 **저장소** 주소와 노션 포트폴리오 주소를 pdf로 작성하여 캔버스로 제출한다 (4시 반까지)\n",
-        "\n",
-        "** 아래 코드로 데이터를 가져올 수 없다면 구글에서 '올림픽 메달 집계' 검색 후 위키페이지의 주소를 복사해서 알맞게 코드를 변형한다. (교재 p.252 참조)"
+        "# 기말고사\n"
       ],
       "metadata": {
         "id": "jbDC1VH0TQ2R"
@@ -82,7 +76,7 @@
       "metadata": {
         "id": "uFOzivzvVzzh"
       },
-      "execution_count": null,
+      "execution_count": 1,
       "outputs": []
     },
     {
@@ -96,11 +90,11 @@
       ],
       "metadata": {
         "id": "QphHU4wGTqJZ",
-        "outputId": "0292116c-6b92-4b65-cf7a-2969203c6e99",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1000
-        }
+        },
+        "outputId": "0292116c-6b92-4b65-cf7a-2969203c6e99"
       },
       "execution_count": 117,
       "outputs": [
@@ -511,12 +505,12 @@
         "summer"
       ],
       "metadata": {
-        "id": "PBno5EZF-3Pt",
-        "outputId": "16dd9ea8-63d2-4751-af95-3a8d5858dd61",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 455
-        }
+        },
+        "id": "PBno5EZF-3Pt",
+        "outputId": "16dd9ea8-63d2-4751-af95-3a8d5858dd61"
       },
       "execution_count": 55,
       "outputs": [
@@ -769,12 +763,12 @@
         "winter"
       ],
       "metadata": {
-        "id": "b08BunujDKKk",
-        "outputId": "7296bc6b-8a3e-4eaf-be71-02d293d8fbdd",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 455
-        }
+        },
+        "id": "b08BunujDKKk",
+        "outputId": "7296bc6b-8a3e-4eaf-be71-02d293d8fbdd"
       },
       "execution_count": 53,
       "outputs": [
@@ -1027,12 +1021,12 @@
         "summer"
       ],
       "metadata": {
-        "id": "CbO0CGZfEPIk",
-        "outputId": "0fd2c272-7992-446e-8d33-70992993ff41",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 455
-        }
+        },
+        "id": "CbO0CGZfEPIk",
+        "outputId": "0fd2c272-7992-446e-8d33-70992993ff41"
       },
       "execution_count": 56,
       "outputs": [
@@ -1285,12 +1279,12 @@
         "winter"
       ],
       "metadata": {
-        "id": "nVenqN0KHvcr",
-        "outputId": "13b167d0-4c71-4d22-8076-9891cf04e05c",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 455
-        }
+        },
+        "id": "nVenqN0KHvcr",
+        "outputId": "13b167d0-4c71-4d22-8076-9891cf04e05c"
       },
       "execution_count": 61,
       "outputs": [
@@ -1544,12 +1538,12 @@
         "olympics_data"
       ],
       "metadata": {
-        "id": "ixKQsGQTIXCj",
-        "outputId": "00548948-449f-4da5-9d33-e630259ca090",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 499
-        }
+        },
+        "id": "ixKQsGQTIXCj",
+        "outputId": "00548948-449f-4da5-9d33-e630259ca090"
       },
       "execution_count": 122,
       "outputs": [
@@ -1886,12 +1880,12 @@
         "addrowolympics_data"
       ],
       "metadata": {
-        "id": "LNJaDh_8Jqxi",
-        "outputId": "4afd5a70-1440-49bf-b0ca-5e6d60fee797",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 502
-        }
+        },
+        "id": "LNJaDh_8Jqxi",
+        "outputId": "4afd5a70-1440-49bf-b0ca-5e6d60fee797"
       },
       "execution_count": 140,
       "outputs": [
